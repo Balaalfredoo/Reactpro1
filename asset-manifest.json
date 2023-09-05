@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reactpro1/static/css/main.efddea7d.css",
+    "main.js": "/Reactpro1/static/js/main.72818f0a.js",
+    "static/media/lamp1.jpg": "/Reactpro1/static/media/lamp1.fc3f3b3200e475c8faf2.jpg",
+    "static/media/furniture1.jpg": "/Reactpro1/static/media/furniture1.ba6de78e80df5ba0f2a8.jpg",
+    "static/media/furniture2.jpg": "/Reactpro1/static/media/furniture2.9c91b3cc1f2b527edb08.jpg",
+    "index.html": "/Reactpro1/index.html",
+    "main.efddea7d.css.map": "/Reactpro1/static/css/main.efddea7d.css.map",
+    "main.72818f0a.js.map": "/Reactpro1/static/js/main.72818f0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efddea7d.css",
+    "static/js/main.72818f0a.js"
+  ]
+}
